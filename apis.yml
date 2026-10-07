@@ -61,6 +61,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Pricing
+  url: https://www.digitalowl.com/use-cases/mass-tort
+- type: Plans
+  url: plans/digitalowl-plans-pricing.yml
 - type: Website
   url: https://www.digitalowl.com/
 - type: About
